@@ -58,8 +58,8 @@ We believe in **trusting technology** and building **trusted results** — throu
 We’re always open to learners, IT enthusiasts, and professionals.  
 Join us — **learn, share, and build** the future of IT together.
 
-📬 **Email:** [cyberkey@example.com](mailto:info.cyberkey@gmail.com)  
-🌍 **Website:** [cyberkey-academy.com](https://cyberkey.am)  
+📬 **Email:** [info.cyberkey@gmail.com](mailto:info.cyberkey@gmail.com)  
+🌍 **Website:** [cyberkey.am](https://cyberkey.am)  
 
 ---
 
